@@ -11,8 +11,7 @@
     <p><a href="https://www.kaggle.com/datasets/harlfoxem/housesalespredictio">House Rocket / KAGGLE</a></p>
 </div>
 <br> 
-<p>Esse projeto faz parte do curso <a href="https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG">Python do 0  ao DS</a> ministrado por <a href="https://www.linkedin.com/in/meigarom/?originalSubdomain=br">Meigaron Lopes.</a></p>
-<p>Contém: tratamento, análise de dados e Deploy de APP para que o cliente possa fazer visualização e manipupulação dos dados de forma mais intuitiva através de um navegador, utilizando filtros de acordo com sua necessidade pré-requisitada.
+<p>Este projeto contém: tratamento, análise de dados e Deploy de APP para que o cliente possa fazer visualização e manipupulação dos dados de forma mais intuitiva através de um navegador, utilizando filtros de acordo com sua necessidade pré-requisitada.
 <br>
 <div>
     <h3>Sobre o Dataset</h3>
