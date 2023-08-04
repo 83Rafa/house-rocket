@@ -11,7 +11,7 @@
     <p><a href="https://www.kaggle.com/datasets/harlfoxem/housesalespredictio">House Rocket / KAGGLE</a></p>
 </div>
 <br> 
-<p>Este projeto contém: tratamento, análise de dados e Deploy de APP para que o cliente possa fazer visualização e manipupulação dos dados de forma mais intuitiva através de um navegador, utilizando filtros de acordo com sua necessidade pré-requisitada.
+<p>Este projeto contém: tratamento, análise de dados e Deploy de APP para que o cliente possa fazer visualização e manipulação dos dados de forma mais intuitiva através de um navegador, utilizando filtros de acordo com sua necessidade pré-requisitada.
 <br>
 <div>
     <h3>Sobre o Dataset</h3>
